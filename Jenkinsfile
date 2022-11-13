@@ -1,3 +1,3 @@
-@Library('robot-shared-library') // Name of the library mentioned on Jenkins file
+@Library('robot-shared-library@main') _ // Name of the library mentioned on Jenkins file
 
 nodejs()
